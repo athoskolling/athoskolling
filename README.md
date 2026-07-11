@@ -1,16 +1,34 @@
-## Hi there 👋
+## Olá! Me chamo Athos Kolling 🦉
 
-<!--
-**athoskolling/athoskolling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de Ciência da Computação | Computer Science Student
+- Resolução de Problemas | Problem Solver
+- Interesse em Desenvolvimento Web e Cloud | Cloud and Web Development enthusiast
 
-Here are some ideas to get you started:
+Bem-vindo(a)! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este GitHub é onde documento minha evolução como estudante de Ciência da Computação. Aqui você encontrará projetos acadêmicos, implementações de estruturas de dados e outros estudos que fazem parte da minha formação.
+
+Tenho interesse em tecnologia aplicada à resolução de problemas, desenvolvimento e engenharia de software. 
+
+### Tecnologias
+
+- C# | .NET
+- Javascript | React
+- Google Workspace
+- MS Office
+- Python
+- HTML
+- C
+- C++
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/kn_athos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:athoskolling@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/athos-kolling/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+![Athos's GitHub stats](https://github-stats-extended.vercel.app/api?username=athoskolling&theme=nightowl&show_icons=true&rank_icon=github)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=athoskolling&layout=compact&theme=nightowl&show_icons=true)
