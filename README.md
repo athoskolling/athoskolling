@@ -24,11 +24,18 @@ Tenho interesse em tecnologia aplicada à resolução de problemas, desenvolvime
   ##
  
 <div> 
-  <a href="https://instagram.com/kn_athos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:athoskolling@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/athos-kolling/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://instagram.com/kn_athos" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="mailto:athoskolling@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/athos-kolling/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
-![Athos's GitHub stats](https://github-stats-extended.vercel.app/api?username=athoskolling&theme=nightowl&show_icons=true&rank_icon=github)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=athoskolling&layout=compact&theme=nightowl&show_icons=true)
+![Athos's GitHub stats](https://github-stats-extended.vercel.app/api?username=athoskolling&theme=dark&show_icons=true&rank_icon=github)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=athoskolling&layout=compact&theme=dark&show_icons=true)
