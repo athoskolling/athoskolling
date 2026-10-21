@@ -12,13 +12,10 @@ Tenho interesse em tecnologia aplicada à resolução de problemas, desenvolvime
 
 ### Tecnologias
 
-- C# | .NET
-- Javascript | React
+- Javascript
 - Google Workspace
 - MS Office
 - Python
-- HTML
-- C
 - C++
   
   ##
